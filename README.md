@@ -98,7 +98,7 @@ If you use this dataset or code as part of your research, please cite the follow
 
   title={Attention-aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services},
   
-  author={Du, Hongyang and Ma, Bohao and Niyato, Dusit and Kang, Jiawen},
+  author={Du, Hongyang and Liu, Jiazhen and Niyato, Dusit and Kang, Jiawen and Xiong, Zehui and Zhang, Junshan and Kim, Dong In},
   
   journal={arXiv preprint arXiv:2208.05438},
   
