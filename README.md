@@ -13,7 +13,7 @@ With the help of UOAL, we can simulate the sparse user-object interaction record
 The complete UOAL can be downloaded from the following Google drive link:
 
 <!-- https://drive.google.com/drive/folders/1x8NIiA6gxxMBHPebEoxNAd1a7sHc7g_Y?usp=sharing -->
-**the link will be released after our paper is accepted**
+https://drive.google.com/drive/folders/1x8NIiA6gxxMBHPebEoxNAd1a7sHc7g_Y?usp=sharing
 
 The file structure is
 ```
@@ -93,4 +93,10 @@ You could change `n_clusters` to decide the number of clusters, and `chose_group
 ## Reference
 
 If you use this dataset or code as part of your research, please cite the following paper, thanks
+@article{du2022attention,
+  title={Attention-aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services},
+  author={Du, Hongyang and Ma, Bohao and Niyato, Dusit and Kang, Jiawen},
+  journal={arXiv preprint arXiv:2208.05438},
+  year={2022}
+}
 
