@@ -8,6 +8,8 @@ With the help of UOAL, we can simulate the sparse user-object interaction record
 
 ## Description of UOAL
 
+![image](https://github.com/HongyangDu/User-Object-Attention-Level/blob/master/UOAL/UOAL.jpg)
+
 ### Dataset Structure
 
 The complete UOAL can be downloaded from the following Google drive link:
