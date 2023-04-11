@@ -101,9 +101,9 @@ You could change `n_clusters` to decide the number of clusters, and `chose_group
 
 If you use this dataset or code as part of your research, please cite the following paper, thanks
 
-[R1] Hongyang Du, Jiazhen Liu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, and Dong In Kim. ["Attention-aware resource allocation and qoe analysis for metaverse xurllc services."](https://arxiv.org/abs/2208.05438) arXiv preprint arXiv:2208.05438 (2022).
+[R1] Hongyang Du, Jiazhen Liu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, and Dong In Kim. ["Attention-aware resource allocation and QoE analysis for Metaverse xURLLC services."](https://arxiv.org/abs/2208.05438) arXiv preprint arXiv:2208.05438 (2022).
 
-[R2] Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Xuemin Sherman Shen, and Dong In Kim. ["Exploring attention-aware network resource allocation for customized metaverse services."](https://arxiv.org/abs/2208.00369) IEEE Network (2022).
+[R2] Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Xuemin Sherman Shen, and Dong In Kim. ["Exploring attention-aware network resource allocation for customized Metaverse services."](https://arxiv.org/abs/2208.00369) IEEE Network (2022).
 
 The bib is:
 
